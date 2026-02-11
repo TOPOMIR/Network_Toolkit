@@ -3,7 +3,7 @@
 
 
 1. INTRODUÇÃO
-A TOPOMIR Network Toolkit Pro é uma aplicação projetada para administradores de 
+A TOPOMIR Network Toolkit é uma aplicação projetada para administradores de 
 redes e engenheiros de infraestrutura. Ela consolida cálculos de sub-redes, 
 simulações de rádiofrequência (WiFi), análise de agregação de links (LACP) e 
 conformidade de segurança VPN.
